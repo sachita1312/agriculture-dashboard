@@ -1,0 +1,6 @@
+crop,disease,severity,date
+Pepper__bell,Bacterial_spot,1,2023-01-01
+Pepper__bell,healthy,3,2023-01-02
+Potato,Early_blight,3,2023-01-03
+Potato,healthy,2,2023-01-04
+Potato,Late_blight,3,2023-01-05
