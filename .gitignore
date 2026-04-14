@@ -1,0 +1,14 @@
+# Ignore datasets
+*.csv
+archive/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore large files
+*.zip
+*.log
